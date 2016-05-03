@@ -1,1 +1,1 @@
-4e003ae6-1153-11e6-a5f8-5cf93890b94a
+std::cout << 'Hello world' << std::endl
